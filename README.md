@@ -32,4 +32,3 @@ To install HomeoCare, follow these steps:
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit pull requests to propose changes.
-# Homeocare
