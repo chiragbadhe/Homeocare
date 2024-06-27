@@ -15,7 +15,7 @@ HomeoCare is an application designed to provide holistic health solutions using 
 
 To install HomeoCare, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your/repository.git`
+1. Clone the repository: `git clone https://github.com/chiragbadhe/Homeocare`
 2. Install dependencies: `npm install`
 3. Start the application: `npm start`
 
