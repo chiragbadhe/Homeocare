@@ -1,5 +1,7 @@
 # HomeoCare - AI
 
+![HomeoCare Logo](./public/screenshot.png)
+
 ## Description
 
 HomeoCare is an application designed to provide holistic health solutions using OpenAI through homeopathic principles. It aims to assist users in finding personalized homeopathic remedies based on their symptoms and health history.
